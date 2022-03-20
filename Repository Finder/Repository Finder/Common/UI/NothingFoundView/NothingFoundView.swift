@@ -13,4 +13,5 @@ class NothingFoundView: UIView, NibLoadableView {
     override func awakeFromNib() {
         super.awakeFromNib()
     }
+    
 }
